@@ -26,7 +26,8 @@ This project is about detecting whether a person is wearing a face mask or not u
 4. Start webcam for real-time detection  
 
 ## 📷 Output
-(Add your screenshots here)
+<img width="679" height="505" alt="image" src="https://github.com/user-attachments/assets/2ea5b6ce-b881-4fdd-bab1-10cd397ef25e" />
+
 
 ## 💡 Final Thoughts
 This project helped me understand how AI can be used in real-life situations like safety and health monitoring. I am still learning and looking forward to building more such projects.
