@@ -35,5 +35,6 @@ This project helped me understand how AI can be used in real-life situations lik
 #Sania ansari
 # Linkedin profile= https://www.linkedin.com/in/saniya-ansari-/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsziSpn44SCy63JAhhiqW%2FQ%3D%3D
 
+# Dataset link= "C:\Users\ksent\OneDrive\Desktop\Facemask.zip"
 
 
