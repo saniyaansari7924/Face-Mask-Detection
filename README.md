@@ -33,8 +33,7 @@ This project is about detecting whether a person is wearing a face mask or not u
 This project helped me understand how AI can be used in real-life situations like safety and health monitoring. I am still learning and looking forward to building more such projects.
 
 #Sania ansari
-# Linkedin profile= https://www.linkedin.com/in/saniya-ansari-/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsziSpn44SCy63JAhhiqW%2FQ%3D%3D
-
+# Linkedin profile=https://www.linkedin.com/in/saniya-ansari-
 # Dataset link= "C:\Users\ksent\OneDrive\Desktop\Facemask.zip"
 
 
